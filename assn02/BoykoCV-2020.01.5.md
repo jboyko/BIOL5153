@@ -7,9 +7,9 @@ Email: [jboyko@uark.edu](jboyko@uark.edu)
 'Bout it 
 
 ## Academic Background
-2017 - Present: Doctorate - University of Arkansas 
-2015 - 2017: Masters of Science - University of Toronto 
-2010 - 2014: Bachelors of Science - University of Toronto 
+2017 - Present: Doctorate - University of Arkansas    
+2015 - 2017: Masters of Science - University of Toronto    
+2010 - 2014: Bachelors of Science - University of Toronto    
 
 ## Publications
 Marine Fresh Response 
