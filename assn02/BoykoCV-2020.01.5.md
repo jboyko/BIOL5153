@@ -1,5 +1,8 @@
 # James Boyko - Socratic Gadfly
-**Website**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
+**Address**: - Department of Biological Sciences, University of Arkansas 
+- Science and Engineering Hall 715  
+- Fayetteville, AR 72701-1201
+**Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
 **Github**: [jboyko](https://github.com/jboyko)   
 **Email**: [jboyko@uark.edu](jboyko@uark.edu)   
 
@@ -9,7 +12,7 @@
 ## Academic Background
 **2017 - Present**: Doctorate - University of Arkansas    
 **2015 - 2017**: Masters of Science - University of Toronto    
-**2010 - 2014**: Bachelors of Science - University of Toronto    
+**2010 - 2014**: B.A. with donors - University of Toronto    
 
 ## Publications
 Beaulieu, J., O'Meara, B., Caetano, D. and Boyko, J., 2019. Package ‘hisse’.   
