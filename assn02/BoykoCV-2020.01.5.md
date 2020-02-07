@@ -1,4 +1,4 @@
-# James Boyko - Socratic Gadfly
+# James Boyko - Curriculum Vitae
 **Address**: Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701-1201   
 **Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
 **Github**: [jboyko](https://github.com/jboyko)   
@@ -9,11 +9,11 @@
 
 ## Academic Background
 **Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)   
-Dissertation: *The effects of my dick in ur ass lol*. Advisor: Dr. Jeremy Beaulieu   
+Dissertation: *Hidden Markov models and other junk*. Advisor: Dr. Jeremy Beaulieu   
 **M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2017)   
-Thesis: Lesser Antillean Anoles   
+Thesis: *Lesser Antillean Anoles and what they do*. Advisor: Dr. Luke Mahler
 **B.A.**, University of Toronto, Biology and History (honours, 2015)   
-Research: Meta-analysis
+Research Project: *Meta-analysis of phylogenetic community assembly*. Advisor: Dr. Ben Gilbert
 
 ## Publications
 Beaulieu, J., O'Meara, B., Caetano, D. and Boyko, J., 2019. Package ‘hisse’.   
