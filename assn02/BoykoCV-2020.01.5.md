@@ -8,12 +8,10 @@ Email: [jboyko@uark.edu](jboyko@uark.edu)
 ## Objective
 'Bout it 
 
-## Education
-University of Arkansas
-   
-University of Toronto
-
-University of Toronto
+## Academic Background
+2017 - Present: Doctorate - University of Arkansas   
+2015 - 2017: Masters of Science - University of Toronto
+2010 - 2014: Bachelors of Science - University of Toronto
 
 ## Publications
 Marine Fresh Response
@@ -34,6 +32,8 @@ Dept. Travel Grants
 
 U of T Award
 
+## Academic and Research Experience
+
 ## Presentations
 Quan Gen
 
@@ -47,7 +47,6 @@ Evolution
 
 OE3C
 
-
 ## Teaching Exerpience
 Evolution
 
@@ -56,7 +55,6 @@ BioStats
 MacroEvolution
 
 Intro Biology
-
 
 - - - -
 **Email:** jboyko@uark.edu
