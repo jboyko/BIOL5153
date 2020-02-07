@@ -1,13 +1,13 @@
-#James Boyko - CV
-###Website:[https://www.jamesboyko.com](https://www.jamesboyko.com)
-###Github:[jboyko](https://github.com/jboyko)
-###Email:[jboyko@uark.edu](jboyko@uark.edu)
-###University of Arkansas
+# James Boyko - CV
+### Website:[https://www.jamesboyko.com](https://www.jamesboyko.com)
+### Github:[jboyko](https://github.com/jboyko)
+### Email:[jboyko@uark.edu](jboyko@uark.edu)
+### University of Arkansas
 
-##Objective
+## Objective
 'Bout it
 
-##Education
+## Education
 
 **University of Toronto**                                August 1989- December 1993 
    
