@@ -1,5 +1,5 @@
 # James Boyko - Socratic Gadfly
-**Address**: - Department of Biological Sciences, University of Arkansas, Science and Engineering Hall 715, Fayetteville, AR 72701-1201   
+**Address**: Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701-1201   
 **Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
 **Github**: [jboyko](https://github.com/jboyko)   
 **Email**: [jboyko@uark.edu](jboyko@uark.edu)   
@@ -8,11 +8,11 @@
 'Bout it   
 
 ## Academic Background
-**Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)
+**Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)   
 Dissertation: *The effects of my dick in ur ass lol*. Advisor: Dr. Jeremy Beaulieu   
 **M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2017)   
 Thesis: Lesser Antillean Anoles   
-**B.A.**, University of Toronto, Biology and History (honours, 2015)
+**B.A.**, University of Toronto, Biology and History (honours, 2015)   
 Research: Meta-analysis
 
 ## Publications
