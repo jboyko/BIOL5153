@@ -1,20 +1,15 @@
-<center><span style="font-family:Didot; font-size:2.5em;">Daffy Duck</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Website:**[https://www.monique.tech](https://www.monique.tech)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Github:**[yourGithub](yourGithubLinkURL)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">**Email:**[youremail@youremail.com](youremail@youremail.com)</span></center>
-<center><span style="font-family:Didot; font-size:1.5em;">Gulla Gulla Island, MD USA
-</span></center>
+#James Boyko - CV
+###Website:[https://www.jamesboyko.com](https://www.jamesboyko.com)
+###Github:[jboyko](https://github.com/jboyko)
+###Email:[jboyko@uark.edu](jboyko@uark.edu)
+###University of Arkansas
 
-<span style="font-family:Didot; font-size:2em;">Objective</span>
-> Place your objective here! We can talk about our goals in software development or even how you aspire to be a race car driver. Just make it pertinent to the position your applying for in a debonaire way. Like, 'Oh I happen to be looking for a position where I can utilize my management experience and love for ice cream and you just happen to be Dairy Queen'.
+##Objective
+'Bout it
 
+##Education
 
-
-<span style="font-family:Didot; font-size:2em;">Education</span>
-<br />
-- - - -
-
-**Purdue University**                                August 1989- December 1993 
+**University of Toronto**                                August 1989- December 1993 
    
 > 1. Here you can place all of your cool accomplishments
 > 2. Like that one time you won the Google Hackathon
