@@ -1,3 +1,5 @@
 # James Boyko
-Born: September 21 1992
+*Curriculum Vitae*
+University of Arkansas
+jamesboyko.com
 
