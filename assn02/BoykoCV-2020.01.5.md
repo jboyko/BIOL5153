@@ -4,16 +4,16 @@
 **Github**: [jboyko](https://github.com/jboyko)   
 **Email**: [jboyko@uark.edu](jboyko@uark.edu)   
 
-## Objective
-'Bout it   
-
 ## Academic Background
 **Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)   
-Dissertation: *Hidden Markov models and other junk*. Advisor: Dr. Jeremy Beaulieu   
+Dissertation: *Hidden Markov models and other junk*.   
+Advisor: Dr. Jeremy Beaulieu   
 **M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2017)   
-Thesis: *Lesser Antillean Anoles and what they do*. Advisor: Dr. Luke Mahler   
-**B.A.**, University of Toronto, Biology and History (honours, 2015)   
-Research Project: *Meta-analysis of phylogenetic community assembly*. Advisor: Dr. Ben Gilbert   
+Thesis: *The Effect of Congeners on Trait Evolution and Sexual Dimorphism in Lesser Antillean Anolis Lizards*.    
+Advisor: Dr. Luke Mahler   
+**B.A.**, University of Toronto, Biology and History (2015)   
+Research Project: *Meta-analysis of phylogenetic community assembly*.    
+Advisor: Dr. Ben Gilbert   
 
 ## Publications
 Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.**, 2019. Package ‘hisse’.   
@@ -29,29 +29,18 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 2017: $750 USD - SGS Conference Grant    
 2016: $400 USD - Phylogenetic Symposium Travel Grant
 
-## Academic and Research Experience
-### **2017 - 2022**: PhD with Jeremy Beaulieu   
-I'm currently at the University of Arkansas doing interesting things.
-### **2015 - 2017**: MSc with Luke Mahler    
-I did my MSc with Luke Mahler studying Lesser Antillean anoles. Data collection came from museums.
-### **2015**: Undergraduate Researcher with Ben Gilbert   
-I did a meta-analysis as an undergraduate project looking at...
-### **2014 - 2015**: Work Study Student with Martin Krkosek   
-I maintained near 100 populations of Daphnia and their infectors to study...
-### **2013 - 2014**: Volunteer with Aneil Agrawal
-I cleaned dishes and counted rotifers for an evolution of sex experiment.
-
 ## Presentations
-#### 2019: Quan Gen   
-Did it for the funding.
-#### 2018, 2019: Botany   
-This was fun because I volunteered
-#### 2017: Atwood Colloquium
-I presented at one of these at least lol.
-#### 2016: Evolution
-I was tripping hard during this one.
-#### 2015: OE3C
-Honestly, not bad for my first.
+### Botany: Oral presentation – International Conference. 
+**Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2018) Testing the signal of marine versus freshwater origins of photosynthetic eukaryotes.    
+###Atwood Colloquium: Oral presentation – Institutional Conference.
+**Boyko, J.D.**, Mahler, D. L. (2017) Testing for character displacement in Lesser Antillean anoles.    
+### Evolution: Oral presentation – International Conference. 
+**Boyko, J.D.**, Mahler, D. L. (2016) Character displacement in Lesser Antillean Anolis lizards.     
+### OE3C: Oral presentation – Provincial Conference. 
+**Boyko, J.D.**, Mahler, D. L. (2016) Testing for repeated character displacement in Anolis lizards.   
+
+## Volunteering and Outreach
+
 
 ## Teaching Exerpience
 Evolution   
