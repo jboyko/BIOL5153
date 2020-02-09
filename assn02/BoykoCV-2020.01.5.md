@@ -1,4 +1,4 @@
-# James Boyko - Curriculum Vitae
+# James Dietrich Boyko - Curriculum Vitae
 **Address**: Department of Biological Sciences, University of Arkansas, Fayetteville, AR 72701-1201   
 **Web page**: [https://www.jamesboyko.com](https://www.jamesboyko.com)   
 **Github**: [jboyko](https://github.com/jboyko)   
@@ -11,23 +11,23 @@
 **Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)   
 Dissertation: *Hidden Markov models and other junk*. Advisor: Dr. Jeremy Beaulieu   
 **M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2017)   
-Thesis: *Lesser Antillean Anoles and what they do*. Advisor: Dr. Luke Mahler
+Thesis: *Lesser Antillean Anoles and what they do*. Advisor: Dr. Luke Mahler   
 **B.A.**, University of Toronto, Biology and History (honours, 2015)   
-Research Project: *Meta-analysis of phylogenetic community assembly*. Advisor: Dr. Ben Gilbert
+Research Project: *Meta-analysis of phylogenetic community assembly*. Advisor: Dr. Ben Gilbert   
 
 ## Publications
-Beaulieu, J., O'Meara, B., Caetano, D. and Boyko, J., 2019. Package ‘hisse’.   
-Nakov, T., Boyko, J.D., Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. Proceedings of the National Academy of Sciences, 114(50), pp.E10606-E10607.   
+Beaulieu, J., O'Meara, B., Caetano, D. and **Boyko, J.**, 2019. Package ‘hisse’.   
+Nakov, T., **Boyko, J.D.**, Alverson, A.J. and Beaulieu, J.M., 2017. Models with unequal transition rates favor marine origins of Cyanobacteria and photosynthetic eukaryotes. Proceedings of the National Academy of Sciences, 114(50), pp.E10606-E10607.   
 
 ## Software
 corHMM - [Correlated Hidden Markov Models for comparative biology](https://github.com/thej022214/corHMM)   
 hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com/thej022214/hisse)   
 
-## Grants and Fellowships
-Distinguished Doctoral Fellowship - 104,000 CDN   
-ASN Travel Grant - 600 CDN   
-SGS Conference Grant - 650 CDN   
-Phylogenetic Conference Grant - 680 CDN   
+## Honors, Awards, and Funding
+2019: $500 USD - American Society of Naturalists Travel Grant    
+2017 to 2021: $88,000 USD - Distinguished Doctoral Fellowship    
+2017: $750 USD - SGS Conference Grant    
+2016: $400 USD - Phylogenetic Symposium Travel Grant
 
 ## Academic and Research Experience
 ### **2017 - 2022**: PhD with Jeremy Beaulieu   
