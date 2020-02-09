@@ -30,14 +30,10 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 2016: $400 USD - Phylogenetic Symposium Travel Grant
 
 ## Presentations
-### Botany: Oral presentation – International Conference. 
-**Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2018) Testing the signal of marine versus freshwater origins of photosynthetic eukaryotes.    
-###Atwood Colloquium: Oral presentation – Institutional Conference.
-**Boyko, J.D.**, Mahler, D. L. (2017) Testing for character displacement in Lesser Antillean anoles.    
-### Evolution: Oral presentation – International Conference. 
-**Boyko, J.D.**, Mahler, D. L. (2016) Character displacement in Lesser Antillean Anolis lizards.     
-### OE3C: Oral presentation – Provincial Conference. 
-**Boyko, J.D.**, Mahler, D. L. (2016) Testing for repeated character displacement in Anolis lizards.   
+**Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2018) Testing the signal of marine versus freshwater origins of photosynthetic eukaryotes. (Botany: Oral presentation – International Conference)    
+**Boyko, J.D.**, Mahler, D. L. (2017) Testing for character displacement in Lesser Antillean anoles. (Atwood Colloquium: Oral presentation – Institutional Conference)      
+**Boyko, J.D.**, Mahler, D. L. (2016) Character displacement in Lesser Antillean Anolis lizards. (Evolution: Oral presentation – International Conference)    
+**Boyko, J.D.**, Mahler, D. L. (2016) Testing for repeated character displacement in Anolis lizards. (OE3C: Oral presentation – Provincial Conference)   
 
 ## Volunteering and Outreach
 
