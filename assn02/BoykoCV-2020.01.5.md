@@ -6,7 +6,7 @@
 
 ## Academic Background
 **Ph.D.**, University of Arkansas, Biological Sciences (expected 2022)   
-Dissertation: *Hidden Markov models and other junk*.   
+Dissertation: *Exploring the limits of phylogenetic comparative methods*.   
 Advisor: Dr. Jeremy Beaulieu   
 **M.Sc.**, University of Toronto, Department of Ecology and Evolutionary Biology (2017)   
 Thesis: *The Effect of Congeners on Trait Evolution and Sexual Dimorphism in Lesser Antillean Anolis Lizards*.    
@@ -30,6 +30,7 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 2016: $400 USD - Phylogenetic Symposium Travel Grant
 
 ## Presentations
+**Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2019) Quantifying the limits of our knowledge in phylogenetic comparative studies. (Botany: Oral presentation – International Conference)    
 **Boyko, J.D.**, Nakov, T., Alverson, A.J. and Beaulieu, J.M. (2018) Testing the signal of marine versus freshwater origins of photosynthetic eukaryotes. (Botany: Oral presentation – International Conference)    
 **Boyko, J.D.**, Mahler, D. L. (2017) Testing for character displacement in Lesser Antillean anoles. (Atwood Colloquium: Oral presentation – Institutional Conference)      
 **Boyko, J.D.**, Mahler, D. L. (2016) Character displacement in Lesser Antillean Anolis lizards. (Evolution: Oral presentation – International Conference)    
