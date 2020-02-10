@@ -37,17 +37,17 @@ hiSSE - [Hidden State Dependent Speciation Extinction models](https://github.com
 
 ## Volunteering and Outreach
 2017 to present: Graduate Student Coordinator (Arkansas Wildlife Society)   
-2017: Atwood Volunteer Coordinator (University of Toronto) 
-2016: Atwood Volunteer (University of Toronto)
-2014 to 2015: Labratory Technician (Dr. Krkosek's Lab)
-2013 to 2014: Volunteer (Dr. Agrawal's lab)
+2017: Atwood Volunteer Coordinator (University of Toronto)   
+2016: Atwood Volunteer (University of Toronto)    
+2014 to 2015: Labratory Technician (Dr. Krkosek's Lab)    
+2013 to 2014: Volunteer (Dr. Agrawal's lab)    
 
 ## Teaching Exerpience
 2017 to 2020 Teaching Assistant: BIOL3023 (Evolutionary Biology) - University of Arkansas   
 2016 to 2017 Teaching Assistant: EEB365 (Macroevolution) - University of Toronto   
 2016 to 2017 Teaching Assistant: EEB225 (Biostatistics for Biologists) - University of Toronto   
 2015 to 2016 Teaching Assistant: BIO220 (From Genomes to Ecosystems in a Changing World) - University of Toronto    
-2015 to 2016 Teaching Assistant: BIO120 (Adaptation and Biodiversity) - University of Arkansas    
+2015 to 2016 Teaching Assistant: BIO120 (Adaptation and Biodiversity) - University of Toronto    
 
 - - - -
 **Email:** jboyko@uark.edu
