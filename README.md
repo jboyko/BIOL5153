@@ -4,3 +4,5 @@
 Assignment 1: various coding problems in bash
 
 Assignment 2: write a cv in markdown
+
+Assignment 3: more coding problems in bash
