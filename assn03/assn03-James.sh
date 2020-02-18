@@ -24,18 +24,25 @@ ls -l | grep .sched | wc -l
 # assn03-6
 ls gene_trees/ | grep .fasta | cut -d "_" -f1 > fasta_files.txt
 ls gene_trees/ | grep .tre | cut -d "_" -f1 > tre_files.txt
-comm -12 fasta_files.txt tre_files.txt | wc -l
-14640
-cat fasta_files.txt | wc -l
-15085
-expr 15085 - 14640
+comm -23 fasta_files.txt tre_files.txt | wc -l
 445
 
 # assn03-7
 for f in *.sched
 do
-    grep "Program Return Code: 0" f
-done
-
+    if grep -q "Program Return Code: 0" $f; then
+	echo exists
+    else
+	echo not found
+    fi
+done > out.txt
+grep "not found" out.txt | wc -l
+45
+grep "not found" -v out.txt | wc -l
+15217
 
 # assn03-8
+comm -23 fasta_files.txt tre_files.txt > fasta_only.txt
+while read f; do
+    echo "write_raxml_job_script.py ${f}_alignment.fasta > ${f}_alignment.pbs"
+done < fasta_only.txt
