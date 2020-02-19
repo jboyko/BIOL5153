@@ -8,6 +8,7 @@ for i in {808..8008}; do echo TR-$i; done
 # assn03-2
 alias enc="echo Keep up the great work!"
 alias disc="echo So, is your anole manuscript published?"
+alias mot="echo Pragmatism in your personal model."
 
 # assn03-3
 ls -l | grep .fasta | wc -l
