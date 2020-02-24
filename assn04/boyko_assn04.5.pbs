@@ -1,0 +1,16 @@
+#!/bin/bash
+
+#PBS -N assn04.5
+#PBS -q debug12core
+#PBS -j oe
+#PBS -m abe
+#PBS -M jboyko@uark.edu
+#PBS -o boyko_assn04.5.out
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:00:15:00
+
+cd /storage/jboyko/watermelon_files
+
+module load blast/2.6.0+
+
+blastp -query watermelon_nt/nad4L.fasta -db nr -outfmt 6 -remote
