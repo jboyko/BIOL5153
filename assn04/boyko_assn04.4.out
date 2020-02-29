@@ -1,0 +1,30 @@
+
+
+Building a new DB, current time: 02/26/2020 08:19:13
+New DB name:   /scrfs/storage/jboyko/watermelon_files/all_mt_genomes.fasta
+New DB title:  all_mt_genomes.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scrfs/storage/jboyko/watermelon_files/all_mt_genomes.fasta
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 46 sequences in 0.374472 seconds.
+PBS Job Statistics:
+PBS Job ID: 4777453.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:05:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: debug12core
+Program Return Code: 0
+Head Node:
+compute1172
+/share/apps/nebula/nebula-stop-instance.sh: line 12: cd: /home/jboyko/.nebula: No such file or directory
+ls: cannot access nebula-jboyko-*.yml: No such file or directory
+Usage: nebula-stop-instance.sh <vmid>
+Currently valid image-numbers are: 
+ls: cannot access nebula-jboyko-*.yml: No such file or directory
+PBS Job Statistics:
+PBS Job ID: 4777453.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:05:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: debug12core
+Program Return Code: 0
+Head Node: compute1172

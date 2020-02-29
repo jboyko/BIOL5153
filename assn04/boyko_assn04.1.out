@@ -1,0 +1,15 @@
+PBS Job Statistics:
+PBS Job ID: 4777450.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:05:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: aja
+Program Return Code: 0
+Head Node:
+compute3012
+PBS Job Statistics:
+PBS Job ID: 4777450.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:05:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: aja
+Program Return Code: 0
+Head Node: compute3012

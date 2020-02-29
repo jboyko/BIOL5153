@@ -15,4 +15,4 @@ module load blast/2.6.0+
 
 makeblastdb -in all_watermelon_nt.fasta -dbtype nucl
 
-blastn -query watermelon_nt/nad4L.fasta -db watermelon.fsa -outfmt 6
+blastn -query watermelon_nt/nad4L.fasta -db watermelon.fsa -outfmt 6 > ../homework/assn04/job2.txt

@@ -1,11 +1,11 @@
 #!/bin/bash
 
-#PBS -N assn04.2
+#PBS -N assn04.3
 #PBS -q debug12core
 #PBS -j oe
 #PBS -m abe
 #PBS -M jboyko@uark.edu
-#PBS -o boyko_assn04.2.out
+#PBS -o boyko_assn04.3.out
 #PBS -l nodes=1:ppn=1
 #PBS -l walltime=00:00:05:00
 
@@ -15,4 +15,4 @@ module load blast/2.6.0+
 
 makeblastdb -in watermelon.fsa -dbtype nucl
 
-blastn -query watermelon_nt/nad4L.fasta -db watermelon.fsa -outfmt 6
+blastn -query watermelon_nt/nad4L.fasta -db watermelon.fsa -outfmt 6 > ../homework/assn04/job3.txt

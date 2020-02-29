@@ -1,0 +1,20 @@
+PBS Job Statistics:
+PBS Job ID: 4777448.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:15:00
+Resources Used: cput=00:02:01,mem=83168kb,vmem=365180kb,walltime=00:02:02
+Queue Name: debug12core
+Program Return Code: 0
+Head Node:
+compute1172
+/share/apps/nebula/nebula-stop-instance.sh: line 12: cd: /home/jboyko/.nebula: No such file or directory
+ls: cannot access nebula-jboyko-*.yml: No such file or directory
+Usage: nebula-stop-instance.sh <vmid>
+Currently valid image-numbers are: 
+ls: cannot access nebula-jboyko-*.yml: No such file or directory
+PBS Job Statistics:
+PBS Job ID: 4777448.sched
+Resource List: neednodes=1:ppn=1,nodes=1:ppn=1,walltime=00:15:00
+Resources Used: cput=00:02:01,mem=83168kb,vmem=365180kb,walltime=00:02:02
+Queue Name: debug12core
+Program Return Code: 0
+Head Node: compute1172
