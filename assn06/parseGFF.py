@@ -1,13 +1,22 @@
 #! /usr/bin/env python3
 import argparse
+from Bio import SeqIO
 import csv
 
+# inputs
 parser = argparse.ArgumentParser()
-parser.add_argument('gff')
-parser.add_argument('fsa')
+parser.add_argument('gff', help="the gff file")
+parser.add_argument('fsa', help="the fasta file")
 args = parser.parse_args()
+genome = SeqIO.read(args.fsa, "fasta")
+fullseq = genome.seq
+
+# operations
 with open(args.gff) as input:
     input.read = csv.reader(input, delimiter = "\t")
-    GeneList = []
     for line in input.read:
-        print(line[8])
+        if(line[2] == "CDS"):
+            start = int(line[3])
+            end = int(line[4])
+            subseq = fullseq[(start-1):(end-1)]
+            print((subseq.upper().count("G") + subseq.upper().count("C"))/len(subseq))
