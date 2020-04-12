@@ -3,6 +3,10 @@ import argparse
 from Bio import SeqIO
 import csv
 
+#functions
+def gc(subseq):
+    return subseq.upper().count("G") + subseq.upper().count("C"))/len(subseq)
+
 # inputs
 parser = argparse.ArgumentParser()
 parser.add_argument('gff', help="the gff file")
@@ -18,5 +22,6 @@ with open(args.gff) as input:
         if(line[2] == "CDS"):
             start = int(line[3])
             end = int(line[4])
-            subseq = fullseq[(start-1):(end-1)]
-            print((subseq.upper().count("G") + subseq.upper().count("C"))/len(subseq))
+            subseq = fullseq[(start-1):(end)]
+            GC = gc(subseq)
+            print(round(GC, 2))
